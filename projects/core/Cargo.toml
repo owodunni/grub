@@ -1,11 +1,11 @@
 [package]
-name = "sub_projects"
+name = "grub-core"
 publish = false
 version = "0.0.0"
-authors = ["Aster <192607617@qq.com>"]
+authors = ["Alexander Poole"]
 description = "..."
-repository = "https://github.com/oovm/sub_projects"
-documentation = "https://docs.rs/sub_projects"
+repository = "https://github.com/owodunni/grub"
+documentation = "https://docs.rs/grub/core"
 readme = "Readme.md"
 license = "MPL-2.0"
 edition = "2021"
